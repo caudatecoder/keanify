@@ -2,8 +2,8 @@
 
     "manifest_version": 2,
     "name": "Keanify",
+    "description": "Replaces (most) images with breathtaking Keanu",
     "version": "0.1",
-  
 
     "permissions": [
         "activeTab",
