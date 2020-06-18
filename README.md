@@ -2,6 +2,9 @@
 
 A browser extension that replaces *(most)* images with breathtaking Keanu
 
+[Chrome Web Store](https://chrome.google.com/webstore/detail/keanify/nachgckjffccajojikmcodlhjnjbaijn)
+[Firefox Addons](https://addons.mozilla.org/en-US/firefox/addon/keanify/)
+
 Based on amazing *PlaceKeanu.com* (Github [alexandersandberg/placekeanu.com)](https://github.com/alexandersandberg/placekeanu.com). *Kudos to [alexandersandberg](https://github.com/alexandersandberg)*
 
 ## How to use
